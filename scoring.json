@@ -1,0 +1,24 @@
+[
+ {
+   "FIELD1": "Score Range",
+   "Category": "0–25",
+   "Question": "Low likelihood of a PSYOP",
+   "Example": "",
+ },
+ {
+   "FIELD1": "Score Range",
+   "Category": "26–50",
+   "Question": "Moderate likelihood—look deeper",
+   "Example": "",
+ },
+ {
+   "FIELD1": "Score Range",
+   "Category": "51–75",
+   "Question": "Strong likelihood—manipulation likely",
+ },
+ {
+   "FIELD1": "Score Range",
+   "Category": "76–100",
+   "Question": "Overwhelming signs of a PSYOP",
+ }
+]
